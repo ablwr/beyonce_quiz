@@ -1,6 +1,7 @@
-var quiz = [{
-  "format": "1.33:1",
-  "img": ["img/image002.png", "img/image004.png", "img/image005.png", "img/image006.png", "img/image007.png", "img/image08.png", "img/image009.png", "img/image016.png", "img/image15.png"]
+var quiz = [
+  {
+    "format": "1.33:1",
+    "img": ["img/image002.png", "img/image004.png", "img/image005.png", "img/image006.png", "img/image007.png", "img/image08.png", "img/image009.png", "img/image016.png", "img/image15.png"]
   },
   {
     "format": "1.77:1",
@@ -11,16 +12,16 @@ var quiz = [{
     "img": ["img/image04.png"]
   },
   {
-    "format": "2.667:1",
-    "img": ["img/image14.png", "img/image09.png", "img/image10.png"]
+    "format": "2.35:1",
+    "img": ["img/image01.png"]
   },
   {
     "format": "2.48:1",
     "img": ["img/image07.png"]
   },
   {
-    "format": "2.35:1",
-    "img": ["img/image01.png"]
+    "format": "2.667:1",
+    "img": ["img/image14.png", "img/image09.png", "img/image10.png"]
   },
   {
     "format": "3.5:1",
